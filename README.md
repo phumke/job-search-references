@@ -39,4 +39,12 @@ Still under construction...
 
 ## Finding Jobs
 
+* [Angel List][j_angel] - Listing of startup companies
+* [HN Who's Hiring Visualization][j_hn] - This is a visualization of all of the Hacker News Who's Hiring Listings
+* [Equity Lancer][j_eq] - This is like angel list
+
+[j_angel]: https://angel.co/
+[j_hn]: http://gaganpreet.github.io/hn-hiring-mapped/src/web/
+[j_eq]: http://equitylancer.com/
+
 ## Misc
