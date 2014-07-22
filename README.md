@@ -7,17 +7,17 @@ Still under construction...
 
 ### Contents
 
-* [Recruiters] #recruiters
-* [Cover Letters] #cover-letters
-* [Resume] #resume
-* [Letters of Recommendation] #letters-of-recommendation
-* [Interviewing] #interviewing
-    * [Coding] #coding
-    * [Design] #design
-    * [Algorithms] #algorithms
-    * [Practice Problems] #practice-problems
-* [Finding Jobs] #finding-jobs
-* [Misc] #misc
+* [Recruiters](#recruiters)
+* [Cover Letters](#cover-letters)
+* [Resume](#resume)
+* [Letters of Recommendation](#letters-of-recommendation)
+* [Interviewing](#interviewing)
+    * [Coding](#coding)
+    * [Design](#design)
+    * [Algorithms](#algorithms)
+    * [Practice Problems](#practice-problems)
+* [Finding Jobs](#finding-jobs)
+* [Misc](#misc)
 
 ## Recruiters
 
