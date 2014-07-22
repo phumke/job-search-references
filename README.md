@@ -18,6 +18,7 @@ Still under construction...
     * [Practice Problems](#practice-problems)
 * [Finding Jobs](#finding-jobs)
 * [Misc](#misc)
+* [Other Repos](#similar-github-repos)
 
 ## Recruiters
 
@@ -48,3 +49,9 @@ Still under construction...
 [j_eq]: http://equitylancer.com/
 
 ## Misc
+
+## Other Repos
+
+* [interview][rep_and]
+
+[rep_and]: https://github.com/andreis/interview
