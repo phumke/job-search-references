@@ -11,6 +11,7 @@ Still under construction...
 * [Cover Letters](#cover-letters)
 * [Resume](#resume)
 * [Letters of Recommendation](#letters-of-recommendation)
+* [Other Tools] (#other-tools)
 * [Interviewing](#interviewing)
     * [Coding](#coding)
     * [Design](#design)
@@ -29,15 +30,23 @@ Still under construction...
 
 ## Resume
 
-* [A guide for resume building][r_guide]
-
-[r_guide]: https://www.traba.co/resume_guide
-
 ### Tools
 
 ### Articles
 
+* [Traba.co Resume Guide][r_guide] - A guide for resume building
+
+[r_guide]: https://www.traba.co/resume_guide
+
 ## Letters of Recommendation
+
+## Other Tools
+
+Other places and ways to get your name out there.
+
+* [About.me][ot_about] - Create an online business card for yourself
+
+[ot_about]: https://about.me/
 
 ## Interviewing
 
@@ -81,6 +90,7 @@ Still under construction...
 
 ## Misc
 
+* Check your school's alumni page, they often have helpful links and resources
 * [Glassdoor][m_glassdoor]
 
 [m_glassdoor]: http://www.glassdoor.com/index.htm
