@@ -29,6 +29,10 @@ Still under construction...
 
 ## Resume
 
+* [A guide for resume building][r_guide]
+
+[r_guide]: https://www.traba.co/resume_guide
+
 ### Tools
 
 ### Articles
