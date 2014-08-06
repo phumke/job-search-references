@@ -17,6 +17,8 @@ Still under construction...
     * [Algorithms](#algorithms)
     * [Practice Problems](#practice-problems)
 * [Finding Jobs](#finding-jobs)
+    * [Startups] (#startups)
+    * [All] (#all)
 * [Misc](#misc)
 * [Other Repos](#similar-github-repos)
 
@@ -44,15 +46,31 @@ Still under construction...
 
 ## Finding Jobs
 
+### Startups
+
 * [Angel List][j_angel] - Listing of startup companies
-* [HN Who's Hiring Visualization][j_hn] - This is a visualization of all of the Hacker News Who's Hiring Listings
 * [Equity Lancer][j_eq] - This is like angel list
 
 [j_angel]: https://angel.co/
-[j_hn]: http://gaganpreet.github.io/hn-hiring-mapped/src/web/
 [j_eq]: http://equitylancer.com/
 
+### All
+
+* [Dice][j_dice]
+* [Cyber Coders][j_cyber]
+* [Monster][j_monster]
+* [HN Who's Hiring Visualization][j_hn] - This is a visualization of all of the Hacker News Who's Hiring Listings
+
+[J_cyber]: http://www.cybercoders.com/
+[j_dice]: http://http://www.dice.com/
+[j_hn]: http://gaganpreet.github.io/hn-hiring-mapped/src/web/
+[j_monster]: http://www.monster.com/
+
 ## Misc
+
+* [Glassdoor][m_glassdoor]
+
+[m_glassdoor]: http://www.glassdoor.com/index.htm
 
 ## Other Repos
 
