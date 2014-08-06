@@ -17,8 +17,9 @@ Still under construction...
     * [Algorithms](#algorithms)
     * [Practice Problems](#practice-problems)
 * [Finding Jobs](#finding-jobs)
-    * [Startups] (#startups)
-    * [All] (#all)
+    * [General] (#general)
+    * [Teceh Startups] (#tech-startups)
+    * [Space Industry] (#space-industry)
 * [Misc](#misc)
 * [Other Repos](#similar-github-repos)
 
@@ -46,15 +47,7 @@ Still under construction...
 
 ## Finding Jobs
 
-### Startups
-
-* [Angel List][j_angel] - Listing of startup companies
-* [Equity Lancer][j_eq] - This is like angel list
-
-[j_angel]: https://angel.co/
-[j_eq]: http://equitylancer.com/
-
-### All
+### General
 
 * [Dice][j_dice]
 * [Cyber Coders][j_cyber]
@@ -65,6 +58,22 @@ Still under construction...
 [j_dice]: http://http://www.dice.com/
 [j_hn]: http://gaganpreet.github.io/hn-hiring-mapped/src/web/
 [j_monster]: http://www.monster.com/
+
+### Tech Startups
+
+* [Angel List][j_angel] - Listing of startup companies
+* [Equity Lancer][j_eq] - This is like angel list
+
+[j_angel]: https://angel.co/
+[j_eq]: http://equitylancer.com/
+
+### Space Industry
+
+* [NasaWatch][j_nasawatch] - This has a listing of the different space industry companies
+* [SpaceRef][j_spaceref] - This has a listing of some available positions (doesn't seem highly maintained)
+
+[j_nasawatch]: http://nasawatch.com/
+[j_spacref]: http://spaceref.biz/careers/
 
 ## Misc
 
