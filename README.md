@@ -73,7 +73,7 @@ Still under construction...
 * [SpaceRef][j_spaceref] - This has a listing of some available positions (doesn't seem highly maintained)
 
 [j_nasawatch]: http://nasawatch.com/
-[j_spacref]: http://spaceref.biz/careers/
+[j_spaceref]: http://spaceref.biz/careers/
 
 ## Misc
 
