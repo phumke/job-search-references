@@ -10,6 +10,8 @@ Still under construction...
 * [Recruiters](#recruiters)
 * [Cover Letters](#cover-letters)
 * [Resume](#resume)
+    * [Tools] (#tools)
+    * [Articles] (#articles)
 * [Letters of Recommendation](#letters-of-recommendation)
 * [Other Tools] (#other-tools)
 * [Interviewing](#interviewing)
