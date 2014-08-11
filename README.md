@@ -230,9 +230,13 @@ My original cover letters were written to demonstrate some value that didn't see
 
 * [AngelList][j_angel] - Listing of startup companies
 * [EquityLancer][j_eq] - This is like angel list
+* [Underdog][j_u] - NYC Startups
+* [StartupJob][j_sj] - Find A Startup Job The Fast Way, Send Your Resume To Top Startups
 
 [j_angel]: https://angel.co/
 [j_eq]: http://equitylancer.com/
+[j_u]: https://www.underdog.io/
+[j_sj]: http://startupjob.me/
 
 ### Space Industry
 
