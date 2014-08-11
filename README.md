@@ -8,7 +8,7 @@ Still under construction...
 ### Contents
 
 * [Recruiters](#recruiters)
-    * [Articles] (#recruiterArticles)
+    * [Articles] (#recruiter-articles)
     * [Sites] (#recruiter-sites)
 * [Cover Letters](#cover-letters)
 * [Resume](#resume)
@@ -30,7 +30,7 @@ Still under construction...
 
 ## Recruiters
 
-###  Articles [recruiterArticles] ##
+###  Recruiter Articles
 
 [rec_inc]: http://www.inc.com/guides/use-an-executive-search-firm.html
 [rec_globe]: http://www.bostonglobe.com/business/2012/12/04/boston-area-tech-recruiters-battle-for-talent/IICvqL32d5ZRINB8Gp0LpJ/story.html
@@ -42,7 +42,7 @@ Still under construction...
 [rec_sfgate]: http://www.sfgate.com/news/slideshow/Fortune-039-s-Best-Bay-Area-Companies-to-Work-For-55357.php
 [rec_wired]: http://www.wired.com/business/2012/10/best-san-francisco-tech-companies/
 
-### Sites [recruiter-sites] ##
+### Recruiter Sites
 
 * [GetLambda][rec_lambda] - A site specializing in high end tech positions in NYC
 
@@ -52,9 +52,9 @@ Still under construction...
 
 ## Resume
 
-### Tools [resume-tools]
+### Resume Tools
 
-### Articles [resume-articles]
+### Resume Articles
 
 * [Traba.co Resume Guide][r_guide] - A guide for resume building
 
