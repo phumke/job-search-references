@@ -218,6 +218,7 @@ My original cover letters were written to demonstrate some value that didn't see
 * [ImpactInterview][i_ii] - List of 140 Google interview questions
 * [BusinessInsider][i_bi] - 15 Google brainteasers and solutions
 * [Quora][i_q] - Post about the best programming questions that they have ever been asked
+* [Quora][i_q] - Post about good interview questions for generalist engineers
 
 [i_iio]: http://interviewing.io/
 [i_ic]: https://www.interviewcake.com/
@@ -227,6 +228,7 @@ My original cover letters were written to demonstrate some value that didn't see
 [i_ii]: http://www.impactinterview.com/2009/10/140-google-interview-questions/
 [i_bi]: http://www.businessinsider.com/answers-to-15-google-interview-questions-that-will-make-you-feel-stupid-2009-11?op=1
 [i_q]: https://www.quora.com/Programming-Interviews/What-are-the-best-programming-interview-questions-youve-ever-asked-or-been-asked?srid=p2Mf&share=1
+[i_q2]: http://www.quora.com/What-are-some-of-the-best-as-in-the-most-revealing-technical-interview-questions-for-a-generalist-software-engineer
 
 ## Finding Jobs
 
