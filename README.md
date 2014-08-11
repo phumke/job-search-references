@@ -175,7 +175,7 @@ My original cover letters were written to demonstrate some value that didn't see
 ### Design
 
 * [Google][i_hsw] - This gives a high level overview of how search works at Google
-* [Google][i_hswst] - More about Google Search
+* [Google][i_hswts] - More about Google Search
 * [Youtube][i_yt] - Good 10 minute overview of how google works (and searches in general at a very high level)
 * [Youtube][i_yt2] - A berkley lecture talking about the internet, TCP/IP, and search engines work at a high level, but with a lot of details as well
 * [Google+][i_gp] - Looking into just how deep a simple question can get
