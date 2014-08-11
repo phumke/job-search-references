@@ -15,8 +15,8 @@ Reference material I found during my job search.  When it comes to articles I in
     * [Tools] (#resume-tools)
     * [Articles] (#resume-articles)
 * [Letters of Recommendation](#letters-of-recommendation)
-* [Other Tools] (#other-tools)
 * [Interviewing](#interviewing)
+    * [Books](#books)
     * [Coding](#coding)
     * [Design](#design)
     * [Algorithms](#algorithms)
@@ -26,6 +26,9 @@ Reference material I found during my job search.  When it comes to articles I in
     * [Teceh Startups] (#tech-startups)
     * [Space Industry] (#space-industry)
 * [Misc](#misc)
+    * [Other Tools] (#other-tools)
+    * [Articles] (#misc-articles)
+    * [Continuous Learning] (#continuous-learning)
 * [Other Repos](#other-interview-repos)
 
 ## Recruiters
@@ -74,6 +77,10 @@ My original cover letters were written to demonstrate some value that didn't see
 
 ### Resume Tools
 
+* [Crowdvit][r_cv] - Crowdsourcing your resume to be commented on and perfected by others
+
+[r_cv]: https://crowdvit.ae/
+
 ### Resume Articles
 
 * [WetFeet][r_wf] - List of recommendations
@@ -104,24 +111,59 @@ My original cover letters were written to demonstrate some value that didn't see
 [lr_about3]: http://jobsearch.about.com/od/referenceletters/a/samplelist.htm
 [lr_about4]: http://jobsearch.about.com/od/referenceletters/a/refertemplate.htm
 
-## Other Tools
-
-Other places and ways to get your name out there.
-
-* [About.me][ot_about] - Create an online business card for yourself
-
-[ot_about]: https://about.me/
-
 ## Interviewing
 
-Books:
-* [Cracking the Coding Interview][c_amaz1]
-* [Algorithm Design Manual][c_amaz2]
+General knowledge areas will primarily be data structures, algorithms (how to do sorting, searching, etc), and code cleanliness.
 
-[c_amaz1]: http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X/ref=sr_1_1?ie=UTF8&qid=1407722928&sr=8-1&keywords=cracking+the+coding+interview
-[c_amaz2]: http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202/ref=sr_1_3?ie=UTF8&qid=1407722961&sr=8-3&keywords=algorithms
+### Books
+
+* [Cracking the Coding Interview][i_amaz1]
+* [Algorithm Design Manual][i_amaz2]
+
+[i_amaz1]: http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X/ref=sr_1_1?ie=UTF8&qid=1407722928&sr=8-1&keywords=cracking+the+coding+interview
+[i_amaz2]: http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202/ref=sr_1_3?ie=UTF8&qid=1407722961&sr=8-3&keywords=algorithms
 
 ### Coding
+
+* [Youtube][i_yt1] - Walking through an example interview with a couple of Googlers
+* [Youtube][i_yt2] - Lecture about getting jobs, and the types of questions that are asked in iterviews
+* [Youtube][i_yt3] - Another example coding interview
+* [Youtube][i_yt4] - Another interview talking about the techincal interview, not as useful
+* [PeterBarrett][i_pb]
+* [Palantir][i_p] - Good descriptions of what to expect in most tech interviews
+* [SourceGraph][i_sg] - This is another way to do coding interviews, where they give you a full application to build
+* [Twitter][i_tw] - Interview cake twitter site
+* [FirstRound][i_fr] - Perfect tech interview as seen from a former amazon VP
+* [GitHub][i_gh] - Cracking the coding interview - questions ans solutions in multiple languages
+* [MacgyverDev][i_md] - Blog talking about different programming tips, types of problems broken down by area, and online practice problems that you can do
+* [InfusiveSolutions][i_is] - Infographic giving a few tips about interviewing
+* [BigOCheatSheet][i_boch] - Big O complexity cheat sheet
+* [Discreet.gr][i_dc] - Algorithm Design discussion
+* [Medium][i_med] - Whiteboard coding tips
+* [Medium][i_med2] - Why whiteboard coding is done and is useful
+* [CareerCup][i_cc]
+* [TopCoder][i_tc]
+* [HackerRank][i_hr]
+
+[i_yt1]: http://www.youtube.com/watch?v=oWbUtlUhwa8&list=PL6D6AB72BF48BEB2E&index=33
+[i_yt2]: http://www.youtube.com/watch?v=rEJzOhC5ZtQ&list=PL6D6AB72BF48BEB2E&index=39
+[i_yt3]: http://www.youtube.com/watch?v=2cf9xo1S134&list=PL6D6AB72BF48BEB2E&index=34
+[i_yt4]: http://www.youtube.com/watch?v=qc1owf2-220&list=PL6D6AB72BF48BEB2E&index=32
+[i_pb]: http://www.peterbarrett.ie/10-common-mistakes-made-when-preparing-for-coding-interviews/
+[i_p]: http://www.palantir.com/getting-hired/
+[i_sg]: https://sourcegraph.com/blog/programming-interview
+[i_tw]: https://twitter.com/interviewcake
+[i_fr]: http://firstround.com/article/The-anatomy-of-the-perfect-technical-interview-from-a-former-Amazon-VP
+[i_gh]: https://github.com/gaylemcd/ctci
+[i_md]: http://macgyverdev.blogspot.se/2014/04/become-better-programmer-with.html?m=1&utm_content=buffer2899a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+[i_is]: http://www.infusivesolutions.com/blog/bid/103164/Infographic-How-to-Beat-the-Software-Interview
+[i_bocs]: http://bigocheatsheet.com/
+[i_dc]: http://discrete.gr/complexity/
+[i_med]: https://medium.com/tech-talk/4df873dbba2e
+[i_med2]: https://medium.com/dima-korolev/whiteboard-and-the-coding-interview-9eddf98bde18
+[i_cc]: http://www.careercup.com/
+[i_tc]: http://www.topcoder.com/
+[i_hr]: https://www.hackerrank.com/
 
 ### Design
 
@@ -163,6 +205,14 @@ Books:
 
 ## Misc
 
+## Misc Tools
+
+* [About.me][ot_about] - Create an online business card for yourself
+
+[ot_about]: https://about.me/
+
+### Misc Articles
+
 * Check your school's alumni page, they often have helpful links and resources
 * [BlogSpot][m_sy] - Getting hired at google
 * [RobertTheaton][m_rt] - Interviewing within the bay area
@@ -187,6 +237,10 @@ Books:
 [m_nyt2]: http://www.nytimes.com/2014/02/23/opinion/sunday/friedman-how-to-get-a-job-at-google.html
 [m_nyt3]: http://www.nytimes.com/2014/04/20/opinion/sunday/friedman-how-to-get-a-job-at-google-part-2.html?_r=1
 [m_guard2]: http://www.theguardian.com/technology/2014/may/10/job-hunting-big-data-interview-algorithms-employees
+
+### Continuous Learning
+
+* Online courses - open MIT
 
 ## Other Interview Repos
 
