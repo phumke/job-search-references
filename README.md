@@ -9,7 +9,6 @@ Reference material I found during my job search.  When it comes to articles I in
     * [Articles] (#recruiter-articles)
     * [Sites] (#recruiter-sites)
 * [Cover Letters](#cover-letters)
-    * [How To] (#how-to)
     * [Active vs Passive Voice] (#active-vs-passive-voice)
 * [Resume](#resume)
     * [Tools] (#resume-tools)
@@ -17,6 +16,7 @@ Reference material I found during my job search.  When it comes to articles I in
 * [Letters of Recommendation](#letters-of-recommendation)
 * [Interviewing](#interviewing)
     * [Books](#books)
+    * [General Knowledge Areas](#general-knowledge-areas)
     * [Coding](#coding)
     * [Design](#design)
     * [Algorithms](#algorithms)
@@ -54,10 +54,6 @@ Reference material I found during my job search.  When it comes to articles I in
 ## Cover Letters
 
 My original cover letters were written to demonstrate some value that didn't seem to come across enough in the resume.  It demonstrated an actual example of something that I did well.  In my later ones (round 2+) I realized that the cover letter just gets you in the door, but has no bearing on tech skills, so I wrote it less techincally and more just to get the attention of the recruiter.
-
-### How To
-
-
 
 ### Active vs Passive Voice
 
@@ -113,15 +109,26 @@ My original cover letters were written to demonstrate some value that didn't see
 
 ## Interviewing
 
-General knowledge areas will primarily be data structures, algorithms (how to do sorting, searching, etc), and code cleanliness.
-
 ### Books
 
 * [Cracking the Coding Interview][i_amaz1]
 * [Algorithm Design Manual][i_amaz2]
+* [DevSlant][i_ds] - A list of good books
 
 [i_amaz1]: http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X/ref=sr_1_1?ie=UTF8&qid=1407722928&sr=8-1&keywords=cracking+the+coding+interview
 [i_amaz2]: http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202/ref=sr_1_3?ie=UTF8&qid=1407722961&sr=8-3&keywords=algorithms
+[i_ds]: http://devslant.com/books/
+
+### General Knowledge Areas
+
+* Data structures
+* Algorithms (how to do sorting, searching, etc)
+* Code cleanliness
+* [Oracle][i_o] - Java Collections/API Structure - this is a great way to just understand the basic data structures in general (make sure to pay attention to heaps and priotity queues, they are in here, but hidden inside a specific implementation, not just an interface)
+* [YCombinator][i_yc2] - Thread asking how people find jobs in general
+
+[i_o]: http://docs.oracle.com/javase/tutorial/collections/interfaces/
+[i_yc2]: https://news.ycombinator.com/item?id=4655144
 
 ### Coding
 
@@ -137,7 +144,7 @@ General knowledge areas will primarily be data structures, algorithms (how to do
 * [GitHub][i_gh] - Cracking the coding interview - questions ans solutions in multiple languages
 * [MacgyverDev][i_md] - Blog talking about different programming tips, types of problems broken down by area, and online practice problems that you can do
 * [InfusiveSolutions][i_is] - Infographic giving a few tips about interviewing
-* [BigOCheatSheet][i_boch] - Big O complexity cheat sheet
+* [BigOCheatSheet][i_bocs] - Big O complexity cheat sheet
 * [Discreet.gr][i_dc] - Algorithm Design discussion
 * [Medium][i_med] - Whiteboard coding tips
 * [Medium][i_med2] - Why whiteboard coding is done and is useful
@@ -167,7 +174,39 @@ General knowledge areas will primarily be data structures, algorithms (how to do
 
 ### Design
 
+* [Google][i_hsw] - This gives a high level overview of how search works at Google
+* [Google][i_hswst] - More about Google Search
+* [Youtube][i_yt] - Good 10 minute overview of how google works (and searches in general at a very high level)
+* [Youtube][i_yt2] - A berkley lecture talking about the internet, TCP/IP, and search engines work at a high level, but with a lot of details as well
+* [Google+][i_gp] - Looking into just how deep a simple question can get
+* [Palantir][i_p2] - Palantir overview of how to rock a design interview.  A lot of this was echoed in what FB sent to me, FB also mentioned the CAP theorem.
+* [YCombinator][i_yc] - A single comment about what interviewers could be looking for (subjective but interesting)
+* [StackOverflow][i_so] - Some possible design interview questions, and what to look for
+* [BlogSpot][i_bs] - This isn't a great post, but since there wasn't a lot of information out there, its better than nothing
+
+[i_hsw]: https://www.google.com/insidesearch/howsearchworks/
+[i_hswts]: https://www.google.com/insidesearch/howsearchworks/thestory/
+[i_yt]: https://www.youtube.com/watch?v=KyCYyoGusqs
+[i_yt2]: https://www.youtube.com/watch?v=K8D5uL0y7ho
+[i_gp]: https://plus.google.com/+JeanBaptisteQueru/posts/dfydM2Cnepe
+[i_p2]: http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/
+[i_yc]: https://news.ycombinator.com/item?id=6779257
+[i_so]: http://stackoverflow.com/questions/816258/good-architecture-interview-questions
+[i_bs]: http://itjobforfreshers.blogspot.com/2010/11/software-architect-interview-questions.html
+
 ### Algorithms
+
+* [WordPress][i_wp]
+* [Mit.edu][i_mit]
+* [Nist.gov][i_nist] - Not all that useful for interviewing per se, but it is interesting to see everything
+* [TopCoder][i_tca1] - Algorithm information / tutorials
+* [TopCoder][i_tca2] - Coding information / tutorials
+
+[i_wp]: http://hbfs.wordpress.com/2008/12/23/the-10-classes-of-algorithms-every-programmer-must-know-about/
+[i_mit]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/
+[i_nist]: http://xlinux.nist.gov/dads//
+[i_tca1]: http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=alg_index
+[i_tca2]: http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=software_index
 
 ### Practice Problems
 
