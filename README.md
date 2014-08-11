@@ -210,6 +210,22 @@ My original cover letters were written to demonstrate some value that didn't see
 
 ### Practice Problems
 
+* [InterviewCake][j_ic] - A cheap site that has a number of great explainations to go along with practice problems
+* [CodingForInterviews][j_cfi]
+* [GitHub][j_gh]
+* [ProjectEuler][j_pe]
+* [ImpactInterview][j_ii] - List of 140 Google interview questions
+* [BusinessInsider][j_bi] - 15 Google brainteasers and solutions
+* [Quora][j_q] - Post about the best programming questions that they have ever been asked
+
+[j_ic]: https://www.interviewcake.com/
+[j_cfi]: http://codingforinterviews.com/
+[j_gh]: https://github.com/codingforinterviews/practice-problems/tree/master/
+[j_pe]: http://projecteuler.net/
+[j_ii]: http://www.impactinterview.com/2009/10/140-google-interview-questions/
+[j_bi]: http://www.businessinsider.com/answers-to-15-google-interview-questions-that-will-make-you-feel-stupid-2009-11?op=1
+[j_q]: https://www.quora.com/Programming-Interviews/What-are-the-best-programming-interview-questions-youve-ever-asked-or-been-asked?srid=p2Mf&share=1
+
 ## Finding Jobs
 
 ### General
