@@ -8,10 +8,12 @@ Still under construction...
 ### Contents
 
 * [Recruiters](#recruiters)
+    * [Articles] (#recruiter-articles)
+    * [Sites] (#recruiter-sites)
 * [Cover Letters](#cover-letters)
 * [Resume](#resume)
-    * [Tools] (#tools)
-    * [Articles] (#articles)
+    * [Tools] (#resume-tools)
+    * [Articles] (#resume-articles)
 * [Letters of Recommendation](#letters-of-recommendation)
 * [Other Tools] (#other-tools)
 * [Interviewing](#interviewing)
@@ -28,13 +30,31 @@ Still under construction...
 
 ## Recruiters
 
+### Articles [recruiter-articles]
+
+[rec_inc]: http://www.inc.com/guides/use-an-executive-search-firm.html
+[rec_globe]: http://www.bostonglobe.com/business/2012/12/04/boston-area-tech-recruiters-battle-for-talent/IICvqL32d5ZRINB8Gp0LpJ/story.html
+[rec_ici]: http://www.icionline.net/
+[rec_oct]: http://www.octanner.com/blog/2013/04/top-10-coolest-companies-to-work-for-in-philadelphia/
+[rec_phil]: http://www.philadelphia100.com/
+[rec_wealth]: https://blog.wealthfront.com/startup-employee-equity-compensation/
+[rec_wealth2]: https://blog.wealthfront.com/hot-mid-size-silicon-valley-companies/
+[rec_sfgate]: http://www.sfgate.com/news/slideshow/Fortune-039-s-Best-Bay-Area-Companies-to-Work-For-55357.php
+[rec_wired]: http://www.wired.com/business/2012/10/best-san-francisco-tech-companies/
+
+### Sites [recruiter-sites]
+
+* [GetLambda][rec_lambda] - A site specializing in high end tech positions in NYC
+
+[rec_lambda]: http://getlambda.com/
+
 ## Cover Letters
 
 ## Resume
 
-### Tools
+### Tools [resume-tools]
 
-### Articles
+### Articles [resume-articles]
 
 * [Traba.co Resume Guide][r_guide] - A guide for resume building
 
