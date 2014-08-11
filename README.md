@@ -114,6 +114,13 @@ Other places and ways to get your name out there.
 
 ## Interviewing
 
+Books:
+* [Cracking the Coding Interview][c_amaz1]
+* [Algorithm Design Manual][c_amaz2]
+
+[c_amaz1]: http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X/ref=sr_1_1?ie=UTF8&qid=1407722928&sr=8-1&keywords=cracking+the+coding+interview
+[c_amaz2]: http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202/ref=sr_1_3?ie=UTF8&qid=1407722961&sr=8-3&keywords=algorithms
+
 ### Coding
 
 ### Design
@@ -160,10 +167,26 @@ Other places and ways to get your name out there.
 * [BlogSpot][m_sy] - Getting hired at google
 * [RobertTheaton][m_rt] - Interviewing within the bay area
 * [Nytimes][m_nyt] - Interesting commentary about the direction that the engineers are going and the rift between old and young
+* [Bjk5][m_bjk5] - Blog of the Dev Lead at Kahn Academy
+* [TheGuardian][m_guard] - Article about new ways to look for jobs
+* [Sorting][m_sort] - Visual representation of the different sorting algorithms
+* [Peternixey][m_pet] - Blog post about how to be a good software engineer
+* [Medium][m_med] - How to land an engineering job
+* [Nytimes][m_nyt2] - How to get a job at google
+* [Nytimes][m_nyt3] - How to get a job at google - part 2
+* [TheGuardian][m_guard2] - These are some groups that are trying to change how we do interviews
 
 [m_sy]: http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html
 [m_rt]: http://robertheaton.com/2014/03/07/lessons-from-a-silicon-valley-job-search/
 [m_nyt]: http://www.nytimes.com/2014/03/16/magazine/silicon-valleys-youth-problem.html?_r=0
+[m_bjk5]: http://bjk5.com/
+[m_guard]: http://www.theguardian.com/technology/2014/may/10/job-hunting-big-data-interview-algorithms-employees
+[m_sort]: http://sorting.at/
+[m_pet]: http://peternixey.com/post/83510597580/how-to-be-a-great-software-developer
+[m_med]: https://medium.com/tech-talk/d5f8051afce2
+[m_nyt2]: http://www.nytimes.com/2014/02/23/opinion/sunday/friedman-how-to-get-a-job-at-google.html
+[m_nyt3]: http://www.nytimes.com/2014/04/20/opinion/sunday/friedman-how-to-get-a-job-at-google-part-2.html?_r=1
+[m_guard2]: http://www.theguardian.com/technology/2014/may/10/job-hunting-big-data-interview-algorithms-employees
 
 ## Other Interview Repos
 
