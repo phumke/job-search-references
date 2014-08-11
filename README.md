@@ -219,12 +219,24 @@ My original cover letters were written to demonstrate some value that didn't see
 * [Monster][j_monster]
 * [Github][j_hn] - This is a visualization of all of the Hacker News Who's Hiring Listings
 * [Glassdoor][j_glassdoor]
+* [YCombinator][j_yc] - Has monthly posts of jobs and freelance work (Ask HN Who is Hiring)
+* [Maxmasnick][j_mm] - List of job posting sites
+* [StackOverflow][j_soc] - StackOverflow careers
+* [LinkedIn][j_lin]
+* [TechPro][j_tp] - Looks like a clone of linkedin
+* [GitHub][j_gh]
 
 [J_cyber]: http://www.cybercoders.com/
 [j_dice]: http://http://www.dice.com/
 [j_hn]: http://gaganpreet.github.io/hn-hiring-mapped/src/web/
 [j_monster]: http://www.monster.com/
 [j_glassdoor]: http://www.glassdoor.com/index.htm
+[j_yc]: https://news.ycombinator.com/
+[j_mm]: http://www.maxmasnick.com/articles/jobs/
+[j_soc]: careers.stackoverflow.com
+[j_lin]: https://www.linkedin.com/nhome/
+[j_tp]: http://tech.pro/
+[j_gh]: https://jobs.github.com/positions
 
 ### Tech Startups
 
@@ -248,11 +260,15 @@ My original cover letters were written to demonstrate some value that didn't see
 
 ## Misc
 
-## Misc Tools
+## Other Tools
 
 * [About.me][ot_about] - Create an online business card for yourself
+* [PeopleGraph.io][ot_pg] - Great way to see all the social graphs people are connected to
+* [Sourcing.io][ot_s]
 
 [ot_about]: https://about.me/
+[ot_pg]: http://www.peoplegraph.io/
+[ot_s]: https://sourcing.io/
 
 ### Misc Articles
 
