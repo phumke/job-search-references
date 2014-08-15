@@ -137,7 +137,7 @@ My original cover letters were written to demonstrate some value that didn't see
 * [video][i_yt2] - Lecture about getting jobs, and the types of questions that are asked in iterviews
 * [video][i_yt3] - Another example coding interview
 * [video][i_yt4] - Another interview talking about the techincal interview, not as useful
-* [article][i_pb]
+* [article][i_pb] - Common mistakes interviees make when coding in interviews
 * [article][i_p] - Good descriptions of what to expect in most tech interviews
 * [article][i_sg] - This is another way to do coding interviews, where they give you a full application to build
 * [social][i_tw] - Interview cake twitter site
@@ -179,7 +179,7 @@ My original cover letters were written to demonstrate some value that didn't see
 * [article][i_hswts] - More about Google Search
 * [video][i_yt] - Good 10 minute overview of how google works (and searches in general at a very high level)
 * [video][i_yt2] - A berkley lecture talking about the internet, TCP/IP, and search engines work at a high level, but with a lot of details as well
-* [social][i_gp] - Looking into just how deep a simple question can get
+* [article][i_gp] - Looking into just how deep a simple question can get
 * [article][i_p2] - Palantir overview of how to rock a design interview.  A lot of this was echoed in what FB sent to me, FB also mentioned the CAP theorem.
 * [forum][i_yc] - A single comment about what interviewers could be looking for (subjective but interesting)
 * [article][i_so] - Some possible design interview questions, and what to look for
@@ -197,8 +197,8 @@ My original cover letters were written to demonstrate some value that didn't see
 
 ### Algorithms
 
-* [article][i_wp]
-* [article][i_mit]
+* [article][i_wp] - Standard data structures every programmer should know
+* [article][i_mit] - Introduction to algorithms online course at MIT
 * [documentation][i_nist] - Not all that useful for interviewing per se, but it is interesting to see everything
 * [article][i_tca1] - Algorithm information / tutorials
 * [article][i_tca2] - Coding information / tutorials
@@ -213,9 +213,9 @@ My original cover letters were written to demonstrate some value that didn't see
 
 * [Interviewing.io][i_iio] - Practice interviewing with engineers from top companies, anonymously
 * [InterviewCake][i_ic] - A cheap site that has a number of great explainations to go along with practice problems
-* [CodingForInterviews][i_cfi]
-* [article][i_gh]
-* [ProjectEuler][i_pe]
+* [CodingForInterviews][i_cfi] - Another site which has helpful tips for interviewing
+* [article][i_gh] - This is a github site containing interview questions and associated answers in multiple languages
+* [ProjectEuler][i_pe] - An online repository of many programming problems to solve
 * [article][i_ii] - List of 140 Google interview questions
 * [article][i_bi] - 15 Google brainteasers and solutions
 * [article][i_q] - Post about the best programming questions that they have ever been asked
