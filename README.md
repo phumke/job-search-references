@@ -57,11 +57,11 @@ My original cover letters were written to demonstrate some value that didn't see
 
 ### Active vs Passive Voice
 
-* [Duke.edu][cl_duke] - An explaination of the two voices, pros and cons to each, why and how to avoid using one
-* [Cornell.edu][cl_cornell] - A word doc giving a list of action verbs to use when need to rewrite something from passive to active (so sentences don't become repetitive)
-* [Unc.edu][cl_unc]
-* [QuickAndDirtyTips][cl_qad]
-* [Chronicle][cl_chron] - Intersting read, although less beneficial for rules of thumb
+* [article][cl_duke] - An article from Duke giving an explaination of the two voices, pros and cons to each, why and how to avoid using one
+* [article][cl_cornell] - A word document rom Cornell giving a list of action verbs to use when need to rewrite something from passive to active (so sentences don't become repetitive)
+* [article][cl_unc] - An article from UNC
+* [article][cl_qad] - A little more information about active vs passive
+* [article][cl_chron] - Intersting read, although less beneficial for rules of thumb
 
 [cl_duke]: https://cgi.duke.edu/web/sciwriting/index.php?action=passive_voice
 [cl_cornell]: https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&cad=rja&ved=0CDYQFjAB&url=http%3A%2F%2Fcourses.cit.cornell.edu%2Fengl108%2Fpv_not_your_friend.doc&ei=_gdHUtutHeGi2gWHhICABQ&usg=AFQjCNG52DeyAgz5-Rjv-_WpmSi3atrITQ&sig2=3r4tqEB1QVYOX7gflJWEhw&bvm=bv.53217764,d.b2I
@@ -79,13 +79,13 @@ My original cover letters were written to demonstrate some value that didn't see
 
 ### Resume Articles
 
-* [WetFeet][r_wf] - List of recommendations
-* [GetInterviews][r_gi] - A few tips that you might not have thought of
-* [About][r_about] - More recommendations
-* [KristiDaeda][r_kd] - Using active voice on your resume
-* [Qz][r_qz] - Google guide to resume building excellent structure
-* [Stackexchange][r_se] - Putting a summary on your resume
-* [Traba.co][r_guide] - A guide for resume building
+* [article][r_wf] - List of recommendations
+* [article][r_gi] - A few tips that you might not have thought of
+* [article][r_about] - More recommendations
+* [article][r_kd] - Using active voice on your resume
+* [article][r_qz] - Google guide to resume building excellent structure
+* [article][r_se] - Putting a summary on your resume
+* [article][r_guide] - A guide for resume building
 
 [r_wf]: https://www.wetfeet.com/articles/7-tips-to-streamline-your-resume-lingo
 [r_gi]: http://www.getinterviews.com/words-that-sabotage-your-resume.html
@@ -97,10 +97,10 @@ My original cover letters were written to demonstrate some value that didn't see
 
 ## Letters of Recommendation
 
-* [About][lr_about1] - Quick paragraph dicussing the recommendation letters
-* [About][lr_about2] - How to ask for a recommendation
-* [About][lr_about3] - A sample reference list
-* [About][lr_about4] - A sample recommendation letter
+* [article][lr_about1] - Quick paragraph dicussing the recommendation letters
+* [article][lr_about2] - How to ask for a recommendation
+* [article][lr_about3] - A sample reference list
+* [article][lr_about4] - A sample recommendation letter
 
 [lr_about1]: http://jobsearch.about.com/b/2013/07/01/professional-references.htm
 [lr_about2]: http://jobsearch.about.com/od/referencesrecommendations/a/recommendation.htm
@@ -113,7 +113,7 @@ My original cover letters were written to demonstrate some value that didn't see
 
 * [Cracking the Coding Interview][i_amaz1]
 * [Algorithm Design Manual][i_amaz2]
-* [DevSlant][i_ds] - A list of good books
+* [article][i_ds] - A list of good books
 
 [i_amaz1]: http://www.amazon.com/Cracking-Coding-Interview-Programming-Questions/dp/098478280X/ref=sr_1_1?ie=UTF8&qid=1407722928&sr=8-1&keywords=cracking+the+coding+interview
 [i_amaz2]: http://www.amazon.com/Algorithm-Design-Manual-Steven-Skiena/dp/1849967202/ref=sr_1_3?ie=UTF8&qid=1407722961&sr=8-3&keywords=algorithms
@@ -121,33 +121,34 @@ My original cover letters were written to demonstrate some value that didn't see
 
 ### General Knowledge Areas
 
-* Data structures
-* Algorithms (how to do sorting, searching, etc)
-* Code cleanliness
-* [Oracle][i_o] - Java Collections/API Structure - this is a great way to just understand the basic data structures in general (make sure to pay attention to heaps and priotity queues, they are in here, but hidden inside a specific implementation, not just an interface)
-* [YCombinator][i_yc2] - Thread asking how people find jobs in general
+* [article][i_pal] - This discusses the main data structures and algorithms that you will see within interviews
+* [article][i_pal2] - This discusses coding within the interview, code cleanliness, simplicity, rigor, etc
+* [documentation][i_o] - Java Collections/API Structure - this is a great way to just understand the basic data structures in general (make sure to pay attention to heaps and priotity queues, they are in here, but hidden inside a specific implementation, not just an interface)
+* [forum][i_yc2] - Thread asking how people find jobs in general
 
 [i_o]: http://docs.oracle.com/javase/tutorial/collections/interfaces/
 [i_yc2]: https://news.ycombinator.com/item?id=4655144
+[i_pal]: https://www.palantir.com/2011/09/how-to-ace-an-algorithms-interview/
+[i_pal2]: https://www.palantir.com/2011/10/the-coding-interview/
 
 ### Coding
 
-* [Youtube][i_yt1] - Walking through an example interview with a couple of Googlers
-* [Youtube][i_yt2] - Lecture about getting jobs, and the types of questions that are asked in iterviews
-* [Youtube][i_yt3] - Another example coding interview
-* [Youtube][i_yt4] - Another interview talking about the techincal interview, not as useful
-* [PeterBarrett][i_pb]
-* [Palantir][i_p] - Good descriptions of what to expect in most tech interviews
-* [SourceGraph][i_sg] - This is another way to do coding interviews, where they give you a full application to build
-* [Twitter][i_tw] - Interview cake twitter site
-* [FirstRound][i_fr] - Perfect tech interview as seen from a former amazon VP
-* [GitHub][i_gh] - Cracking the coding interview - questions ans solutions in multiple languages
-* [MacgyverDev][i_md] - Blog talking about different programming tips, types of problems broken down by area, and online practice problems that you can do
-* [InfusiveSolutions][i_is] - Infographic giving a few tips about interviewing
-* [BigOCheatSheet][i_bocs] - Big O complexity cheat sheet
-* [Discreet.gr][i_dc] - Algorithm Design discussion
-* [Medium][i_med] - Whiteboard coding tips
-* [Medium][i_med2] - Why whiteboard coding is done and is useful
+* [video][i_yt1] - Walking through an example interview with a couple of Googlers
+* [video][i_yt2] - Lecture about getting jobs, and the types of questions that are asked in iterviews
+* [video][i_yt3] - Another example coding interview
+* [video][i_yt4] - Another interview talking about the techincal interview, not as useful
+* [article][i_pb]
+* [article][i_p] - Good descriptions of what to expect in most tech interviews
+* [article][i_sg] - This is another way to do coding interviews, where they give you a full application to build
+* [social][i_tw] - Interview cake twitter site
+* [article][i_fr] - Perfect tech interview as seen from a former amazon VP
+* [article][i_gh] - Cracking the coding interview - questions ans solutions in multiple languages
+* [article][i_md] - Blog talking about different programming tips, types of problems broken down by area, and online practice problems that you can do
+* [article][i_is] - Infographic giving a few tips about interviewing
+* [article][i_bocs] - Big O complexity cheat sheet
+* [article][i_dc] - Algorithm Design discussion
+* [article][i_med] - Whiteboard coding tips
+* [article][i_med2] - Why whiteboard coding is done and is useful
 * [CareerCup][i_cc]
 * [TopCoder][i_tc]
 * [HackerRank][i_hr]
@@ -174,15 +175,15 @@ My original cover letters were written to demonstrate some value that didn't see
 
 ### Design
 
-* [Google][i_hsw] - This gives a high level overview of how search works at Google
-* [Google][i_hswts] - More about Google Search
-* [Youtube][i_yt] - Good 10 minute overview of how google works (and searches in general at a very high level)
-* [Youtube][i_yt2] - A berkley lecture talking about the internet, TCP/IP, and search engines work at a high level, but with a lot of details as well
-* [Google+][i_gp] - Looking into just how deep a simple question can get
-* [Palantir][i_p2] - Palantir overview of how to rock a design interview.  A lot of this was echoed in what FB sent to me, FB also mentioned the CAP theorem.
-* [YCombinator][i_yc] - A single comment about what interviewers could be looking for (subjective but interesting)
-* [StackOverflow][i_so] - Some possible design interview questions, and what to look for
-* [BlogSpot][i_bs] - This isn't a great post, but since there wasn't a lot of information out there, its better than nothing
+* [article][i_hsw] - This gives a high level overview of how search works at Google
+* [article][i_hswts] - More about Google Search
+* [video][i_yt] - Good 10 minute overview of how google works (and searches in general at a very high level)
+* [video][i_yt2] - A berkley lecture talking about the internet, TCP/IP, and search engines work at a high level, but with a lot of details as well
+* [social][i_gp] - Looking into just how deep a simple question can get
+* [article][i_p2] - Palantir overview of how to rock a design interview.  A lot of this was echoed in what FB sent to me, FB also mentioned the CAP theorem.
+* [forum][i_yc] - A single comment about what interviewers could be looking for (subjective but interesting)
+* [article][i_so] - Some possible design interview questions, and what to look for
+* [article][i_bs] - This isn't a great post, but since there wasn't a lot of information out there, its better than nothing
 
 [i_hsw]: https://www.google.com/insidesearch/howsearchworks/
 [i_hswts]: https://www.google.com/insidesearch/howsearchworks/thestory/
@@ -196,11 +197,11 @@ My original cover letters were written to demonstrate some value that didn't see
 
 ### Algorithms
 
-* [WordPress][i_wp]
-* [Mit.edu][i_mit]
-* [Nist.gov][i_nist] - Not all that useful for interviewing per se, but it is interesting to see everything
-* [TopCoder][i_tca1] - Algorithm information / tutorials
-* [TopCoder][i_tca2] - Coding information / tutorials
+* [article][i_wp]
+* [article][i_mit]
+* [documentation][i_nist] - Not all that useful for interviewing per se, but it is interesting to see everything
+* [article][i_tca1] - Algorithm information / tutorials
+* [article][i_tca2] - Coding information / tutorials
 
 [i_wp]: http://hbfs.wordpress.com/2008/12/23/the-10-classes-of-algorithms-every-programmer-must-know-about/
 [i_mit]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/
@@ -213,12 +214,12 @@ My original cover letters were written to demonstrate some value that didn't see
 * [Interviewing.io][i_iio] - Practice interviewing with engineers from top companies, anonymously
 * [InterviewCake][i_ic] - A cheap site that has a number of great explainations to go along with practice problems
 * [CodingForInterviews][i_cfi]
-* [GitHub][i_gh]
+* [article][i_gh]
 * [ProjectEuler][i_pe]
-* [ImpactInterview][i_ii] - List of 140 Google interview questions
-* [BusinessInsider][i_bi] - 15 Google brainteasers and solutions
-* [Quora][i_q] - Post about the best programming questions that they have ever been asked
-* [Quora][i_q] - Post about good interview questions for generalist engineers
+* [article][i_ii] - List of 140 Google interview questions
+* [article][i_bi] - 15 Google brainteasers and solutions
+* [article][i_q] - Post about the best programming questions that they have ever been asked
+* [article][i_q] - Post about good interview questions for generalist engineers
 
 [i_iio]: http://interviewing.io/
 [i_ic]: https://www.interviewcake.com/
@@ -240,11 +241,11 @@ My original cover letters were written to demonstrate some value that didn't see
 * [Github][j_hn] - This is a visualization of all of the Hacker News Who's Hiring Listings
 * [Glassdoor][j_glassdoor]
 * [YCombinator][j_yc] - Has monthly posts of jobs and freelance work (Ask HN Who is Hiring)
-* [Maxmasnick][j_mm] - List of job posting sites
 * [StackOverflow][j_soc] - StackOverflow careers
 * [LinkedIn][j_lin]
 * [TechPro][j_tp] - Looks like a clone of linkedin
 * [GitHub][j_gh]
+* [article][j_mm] - List of job posting sites
 
 [J_cyber]: http://www.cybercoders.com/
 [j_dice]: http://http://www.dice.com/
@@ -280,11 +281,11 @@ My original cover letters were written to demonstrate some value that didn't see
 
 ## Misc
 
-## Other Tools
+### Other Tools
 
 * [About.me][ot_about] - Create an online business card for yourself
 * [PeopleGraph.io][ot_pg] - Great way to see all the social graphs people are connected to
-* [Sourcing.io][ot_s]
+* [Sourcing.io][ot_s] - Much like PeopleGraph
 
 [ot_about]: https://about.me/
 [ot_pg]: http://www.peoplegraph.io/
@@ -293,17 +294,18 @@ My original cover letters were written to demonstrate some value that didn't see
 ### Misc Articles
 
 * Check your school's alumni page, they often have helpful links and resources
-* [BlogSpot][m_sy] - Getting hired at google
-* [RobertTheaton][m_rt] - Interviewing within the bay area
-* [Nytimes][m_nyt] - Interesting commentary about the direction that the engineers are going and the rift between old and young
-* [Bjk5][m_bjk5] - Blog of the Dev Lead at Kahn Academy
-* [TheGuardian][m_guard] - Article about new ways to look for jobs
-* [Sorting][m_sort] - Visual representation of the different sorting algorithms
-* [Peternixey][m_pet] - Blog post about how to be a good software engineer
-* [Medium][m_med] - How to land an engineering job
-* [Nytimes][m_nyt2] - How to get a job at google
-* [Nytimes][m_nyt3] - How to get a job at google - part 2
-* [TheGuardian][m_guard2] - These are some groups that are trying to change how we do interviews
+* [article][m_sy] - Getting hired at google
+* [article][m_rt] - Interviewing within the bay area
+* [article][m_nyt] - Interesting commentary about the direction that the engineers are going and the rift between old and young
+* [article][m_bjk5] - Blog of the Dev Lead at Kahn Academy
+* [article][m_guard] - Article about new ways to look for jobs
+* [article][m_sort] - Visual representation of the different sorting algorithms
+* [article][m_pet] - Blog post about how to be a good software engineer
+* [article][m_med] - How to land an engineering job
+* [article][m_nyt2] - How to get a job at google
+* [article][m_nyt3] - How to get a job at google - part 2
+* [article][m_guard2] - These are some groups that are trying to change how we do interviews
+* [article][m_ali] - From the recruiters perspective
 
 [m_sy]: http://steve-yegge.blogspot.com/2008/03/get-that-job-at-google.html
 [m_rt]: http://robertheaton.com/2014/03/07/lessons-from-a-silicon-valley-job-search/
@@ -316,6 +318,7 @@ My original cover letters were written to demonstrate some value that didn't see
 [m_nyt2]: http://www.nytimes.com/2014/02/23/opinion/sunday/friedman-how-to-get-a-job-at-google.html
 [m_nyt3]: http://www.nytimes.com/2014/04/20/opinion/sunday/friedman-how-to-get-a-job-at-google-part-2.html?_r=1
 [m_guard2]: http://www.theguardian.com/technology/2014/may/10/job-hunting-big-data-interview-algorithms-employees
+[m_ali]: http://blog.alinelerner.com/
 
 ### Continuous Learning
 
