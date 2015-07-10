@@ -74,8 +74,10 @@ My original cover letters were written to demonstrate some value that didn't see
 ### Resume Tools
 
 * [Crowdvit][r_cv] - Crowdsourcing your resume to be commented on and perfected by others
+* [Visualize.me][r_vm] - Creates a visualization of the information on your linkedin profile
 
 [r_cv]: https://crowdvit.ae/
+[r_vm]: http://vizualize.me/
 
 ### Resume Articles
 
