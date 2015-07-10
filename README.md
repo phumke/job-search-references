@@ -153,25 +153,25 @@ My original cover letters were written to demonstrate some value that didn't see
 * [TopCoder][i_tc]
 * [HackerRank][i_hr]
 
-[i_yt1]: http://www.youtube.com/watch?v=oWbUtlUhwa8&list=PL6D6AB72BF48BEB2E&index=33
-[i_yt2]: http://www.youtube.com/watch?v=rEJzOhC5ZtQ&list=PL6D6AB72BF48BEB2E&index=39
-[i_yt3]: http://www.youtube.com/watch?v=2cf9xo1S134&list=PL6D6AB72BF48BEB2E&index=34
-[i_yt4]: http://www.youtube.com/watch?v=qc1owf2-220&list=PL6D6AB72BF48BEB2E&index=32
+[i_bocs]: http://bigocheatsheet.com/
+[i_cc]: http://www.careercup.com/
+[i_dc]: http://discrete.gr/complexity/
+[i_fr]: http://firstround.com/article/The-anatomy-of-the-perfect-technical-interview-from-a-former-Amazon-VP
+[i_gh]: https://github.com/gaylemcd/ctci
+[i_hr]: https://www.hackerrank.com/
+[i_is]: http://www.infusivesolutions.com/blog/bid/103164/Infographic-How-to-Beat-the-Software-Interview
+[i_md]: http://macgyverdev.blogspot.se/2014/04/become-better-programmer-with.html?m=1&utm_content=buffer2899a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
+[i_med]: https://medium.com/tech-talk/4df873dbba2e
+[i_med2]: https://medium.com/dima-korolev/whiteboard-and-the-coding-interview-9eddf98bde18
 [i_pb]: http://www.peterbarrett.ie/10-common-mistakes-made-when-preparing-for-coding-interviews/
 [i_p]: http://www.palantir.com/getting-hired/
 [i_sg]: https://sourcegraph.com/blog/programming-interview
 [i_tw]: https://twitter.com/interviewcake
-[i_fr]: http://firstround.com/article/The-anatomy-of-the-perfect-technical-interview-from-a-former-Amazon-VP
-[i_gh]: https://github.com/gaylemcd/ctci
-[i_md]: http://macgyverdev.blogspot.se/2014/04/become-better-programmer-with.html?m=1&utm_content=buffer2899a&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer
-[i_is]: http://www.infusivesolutions.com/blog/bid/103164/Infographic-How-to-Beat-the-Software-Interview
-[i_bocs]: http://bigocheatsheet.com/
-[i_dc]: http://discrete.gr/complexity/
-[i_med]: https://medium.com/tech-talk/4df873dbba2e
-[i_med2]: https://medium.com/dima-korolev/whiteboard-and-the-coding-interview-9eddf98bde18
-[i_cc]: http://www.careercup.com/
 [i_tc]: http://www.topcoder.com/
-[i_hr]: https://www.hackerrank.com/
+[i_yt1]: http://www.youtube.com/watch?v=oWbUtlUhwa8&list=PL6D6AB72BF48BEB2E&index=33
+[i_yt2]: http://www.youtube.com/watch?v=rEJzOhC5ZtQ&list=PL6D6AB72BF48BEB2E&index=39
+[i_yt3]: http://www.youtube.com/watch?v=2cf9xo1S134&list=PL6D6AB72BF48BEB2E&index=34
+[i_yt4]: http://www.youtube.com/watch?v=qc1owf2-220&list=PL6D6AB72BF48BEB2E&index=32
 
 ### Design
 
@@ -185,15 +185,15 @@ My original cover letters were written to demonstrate some value that didn't see
 * [article][i_so] - Some possible design interview questions, and what to look for
 * [article][i_bs] - This isn't a great post, but since there wasn't a lot of information out there, its better than nothing
 
+[i_bs]: http://itjobforfreshers.blogspot.com/2010/11/software-architect-interview-questions.html
+[i_gp]: https://plus.google.com/+JeanBaptisteQueru/posts/dfydM2Cnepe
 [i_hsw]: https://www.google.com/insidesearch/howsearchworks/
 [i_hswts]: https://www.google.com/insidesearch/howsearchworks/thestory/
+[i_p2]: http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/
+[i_so]: http://stackoverflow.com/questions/816258/good-architecture-interview-questions
+[i_yc]: https://news.ycombinator.com/item?id=6779257
 [i_yt]: https://www.youtube.com/watch?v=KyCYyoGusqs
 [i_yt2]: https://www.youtube.com/watch?v=K8D5uL0y7ho
-[i_gp]: https://plus.google.com/+JeanBaptisteQueru/posts/dfydM2Cnepe
-[i_p2]: http://www.palantir.com/2011/10/how-to-rock-a-systems-design-interview/
-[i_yc]: https://news.ycombinator.com/item?id=6779257
-[i_so]: http://stackoverflow.com/questions/816258/good-architecture-interview-questions
-[i_bs]: http://itjobforfreshers.blogspot.com/2010/11/software-architect-interview-questions.html
 
 ### Algorithms
 
@@ -203,11 +203,11 @@ My original cover letters were written to demonstrate some value that didn't see
 * [article][i_tca1] - Algorithm information / tutorials
 * [article][i_tca2] - Coding information / tutorials
 
-[i_wp]: http://hbfs.wordpress.com/2008/12/23/the-10-classes-of-algorithms-every-programmer-must-know-about/
 [i_mit]: http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-introduction-to-algorithms-sma-5503-fall-2005/
 [i_nist]: http://xlinux.nist.gov/dads//
 [i_tca1]: http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=alg_index
 [i_tca2]: http://community.topcoder.com/tc?module=Static&d1=tutorials&d2=software_index
+[i_wp]: http://hbfs.wordpress.com/2008/12/23/the-10-classes-of-algorithms-every-programmer-must-know-about/
 
 ### Practice Problems
 
@@ -233,31 +233,37 @@ My original cover letters were written to demonstrate some value that didn't see
 
 ## Finding Jobs
 
+* [Lever.co][j_lever] - Although you can't search this site directly, a lot of companies use this site to post their job recs
+
+[j_lever]: http://www.lever.co/
+
 ### General
 
 * [Dice][j_dice]
 * [CyberCoders][j_cyber]
 * [Monster][j_monster]
-* [Github][j_hn] - This is a visualization of all of the Hacker News Who's Hiring Listings
 * [Glassdoor][j_glassdoor]
 * [YCombinator][j_yc] - Has monthly posts of jobs and freelance work (Ask HN Who is Hiring)
+* [YCombinator][j_yc2] - This is a map of all of the YCombinator Who's Hiring Listings
+* [YCombinator][j_yc3] - This is another map of all of the YCombinator Who's Hiring Listings
 * [StackOverflow][j_soc] - StackOverflow careers
 * [LinkedIn][j_lin]
 * [TechPro][j_tp] - Looks like a clone of linkedin
 * [GitHub][j_gh]
 * [article][j_mm] - List of job posting sites
 
-[J_cyber]: http://www.cybercoders.com/
+[j_cyber]: http://www.cybercoders.com/
 [j_dice]: http://http://www.dice.com/
-[j_hn]: http://gaganpreet.github.io/hn-hiring-mapped/src/web/
-[j_monster]: http://www.monster.com/
-[j_glassdoor]: http://www.glassdoor.com/index.htm
-[j_yc]: https://news.ycombinator.com/
-[j_mm]: http://www.maxmasnick.com/articles/jobs/
-[j_soc]: careers.stackoverflow.com
-[j_lin]: https://www.linkedin.com/nhome/
-[j_tp]: http://tech.pro/
 [j_gh]: https://jobs.github.com/positions
+[j_glassdoor]: http://www.glassdoor.com/index.htm
+[j_lin]: https://www.linkedin.com/nhome/
+[j_mm]: http://www.maxmasnick.com/articles/jobs/
+[j_monster]: http://www.monster.com/
+[j_soc]: http://careers.stackoverflow.com
+[j_tp]: http://tech.pro/
+[j_yc]: https://news.ycombinator.com/
+[j_yc2]: http://gaganpreet.github.io/hn-hiring-mapped/src/web/
+[j_yc3]: http://whoishiring.it/
 
 ### Tech Startups
 
@@ -268,8 +274,8 @@ My original cover letters were written to demonstrate some value that didn't see
 
 [j_angel]: https://angel.co/
 [j_eq]: http://equitylancer.com/
-[j_u]: https://www.underdog.io/
 [j_sj]: http://startupjob.me/
+[j_u]: https://www.underdog.io/
 
 ### Space Industry
 
